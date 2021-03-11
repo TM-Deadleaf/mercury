@@ -1,1 +1,5 @@
 # mercury
+'''bash
+
+git clone
+
