@@ -16,10 +16,5 @@ Features:
 Instalation: 
 git clone https://github.com/TM-Deadleaf/mercury.git
 
-
-Also install all the requirements:
-
-python install -r requirements.txt
-
 Usage:
 python3 mercury.py
